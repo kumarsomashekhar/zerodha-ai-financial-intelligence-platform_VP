@@ -3,6 +3,11 @@
 A governed, explainable financial portfolio intelligence and risk analytics platform built with **FastAPI**, **Next.js**, **Model Context Protocol (MCP)**, and **Gemini 2.5 Flash**.
 
 ---
+## 🚀 Live Demo
+
+Explore the deployed **Zerodha AI Financial Intelligence Platform**:
+
+🔗 **[Click Here to Visit the Live Application](http://16.179.162.158/)**
 
 ## 1. Architectural Highlights
 - **Zero Hallucination Arithmetic:** Quantitative analytics (HHI concentration index, portfolio beta, annualized volatility, maximum drawdown, sector weights) are deterministically computed using Python (`pandas`, `NumPy`). The LLM does not perform calculations.
